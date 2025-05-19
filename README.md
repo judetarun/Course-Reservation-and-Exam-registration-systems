@@ -38,6 +38,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+![image](https://github.com/user-attachments/assets/f79f2ebd-e204-4457-8889-b3a5f4ebf11b)
 
 
 
@@ -58,6 +59,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+![image](https://github.com/user-attachments/assets/600711eb-96ba-47d0-930a-e5c84664e5bb)
 
 
 # COMMUNICTION DIAGRAM:
@@ -65,6 +67,7 @@ Create detailed charts that…
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
+![image](https://github.com/user-attachments/assets/0c60b50d-b535-474e-93e0-5dff92143655)
 
 
 
@@ -77,6 +80,7 @@ organization of the layered architecture within any UML classifier, such as a so
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
+![image](https://github.com/user-attachments/assets/9e96d9a8-6efb-4106-863d-9d09a3708ae5)
 
 
 
@@ -95,6 +99,7 @@ Activity diagrams present a number of benefits to users. Consider creating an ac
 Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
+![image](https://github.com/user-attachments/assets/339ceed8-84c7-4661-b4f8-ef626235b6c4)
 
 
 
@@ -117,6 +122,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+![image](https://github.com/user-attachments/assets/3efede4b-a878-44f4-8328-68184a4406e0)
 
 
 
